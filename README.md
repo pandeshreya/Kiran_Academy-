@@ -1,2 +1,2 @@
-# Kiran_Academy-
+# Kiran_Academy
 small practice projects 
